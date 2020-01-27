@@ -1,7 +1,7 @@
 # Banana_oh_la_la
 1. Compi 1 se forkea el repo
 2. Compi 1 se clona en local el repo.
-3. Compi 2 se baja a local el repo de compi 1
+3. Compi 2 se clona el repo de compi 1
 4. Compi 1 da permisos a Compi 2 en el repo (settings/collaborators)
 5. Compi 1 y compi 2, crean desde la rama practica sus ramas
 6. Realizar los cambios (ambos)
