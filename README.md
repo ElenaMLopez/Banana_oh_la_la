@@ -16,6 +16,9 @@
 
 - [ ] Cámbiate a la rama 'practica' (esta ya existe no tienes que crearla :octocat:):
   ```git checkout practica```
+  
+- [ ] Desde la rama 'practica' crea una nueva rama **'compi1'** y cambiate a ella:
+```git checkout -b compi1```
 
 - [ ] En el directorio raíz (y estando en la rama 'practica'), elimina el archivo index.html. 
 
@@ -51,7 +54,7 @@
 - [ ] Cambiar a la rama 'practica':
 ```git checkout practica```
 
-- [ ] Desde practica crea una rama llamada 'compi2' y muévete a ella:
+- [ ] Desde practica crea una rama llamada **'compi2'** y muévete a ella:
 ```git checkout -b compi2```
 
 - [ ]  En el directorio raíz (y estando en la rama 'compi2'), elimina el archivo index.html.
