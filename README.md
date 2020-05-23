@@ -9,6 +9,8 @@
 - [ ] Tu **compi2 tiene que *forkear* el repositorio que acabas de obtener en tú perfil**, el tuyo, no de mi perfil. Tambien tiene que clonarse en local el repositorio con `git clone <url_repo_compi1>`.
 > Es un paso importante así que aseguraros de que estáis tomando los repositorios correctos o nada de lo siguiente va a funcionar. :wink: 
 
+- [ ] ¡Cámbiale el nombre! Puedes poner el que quieras, pero yo voy a usar Custom_Banana_oh_la_la. Esto es básicamente para que sea más facil localizar donde trabajamos.
+
 - [ ] Dar permisos en el repositorio que acabas de *forkear* al Compi2, obiamente el tiene que *clonar* tu repo 'Custom Banana_oh_la_la' (bajárselo a su ordenador local con `git clone <url_tu_repo>`).
 
 - [ ] Ahora tienes que bajarte tú, tu recién forkeado repo a tú ordenador:
