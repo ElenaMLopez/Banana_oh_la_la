@@ -20,7 +20,7 @@
 - [ ] Desde la rama 'practica' crea una nueva rama **'compi1'** y cambiate a ella:
 ```git checkout -b compi1```
 
-- [ ] En el directorio raíz (y estando en la rama 'practica'), elimina el archivo index.html. 
+- [ ] En el directorio raíz (**y estando en la rama 'compi1'**), elimina el archivo index.html. 
 
 - [ ] Renombra el archivo 'index-participante1.html' y llámalo index.html a secas.
 
